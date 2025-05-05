@@ -366,11 +366,10 @@ signalsBaseUrl = ''
 # cdd vault (account must have access to projects being registered within)
 cddApiKey = ''
 cddBaseUrl = ''
-cddVaultID = 5821
-#cddVaultID = 5974
+cddVaultID = ''
+
 
 # our test data (replace with data recieved from POST)
-#sampleID = "sample:afab8d10-0d4f-4ef2-aa6a-40563812eea9"
 sampleID = ''
 
 # the following try/catch block catches any errors we find, logs & a response are generated
